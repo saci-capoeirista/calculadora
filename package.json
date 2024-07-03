@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "description": "Programa que simula uma calculadora com um sitema básico de cálculos simples como adição, subtração, multiplicação, divisão, e porcentagem.",
+  "devDependencies": {}
+}
